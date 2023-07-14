@@ -1,4 +1,4 @@
-The bar system project is a Java application that provides a graphical user interface (GUI) for managing orders, products, and user authentication in a bar setting. The project consists of several classes organized into different packages to encapsulate related functionalities. Let's describe the project in its entirety:
+The bar system project is a Java application that provides a graphical user interface (GUI) for managing orders, products, and user authentication in a bar setting. The project consists of several classes organized into different packages to encapsulate related functionalities. Description of the project in its entirety:
 
 Packages:
 
